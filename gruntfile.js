@@ -16,7 +16,7 @@ module.exports = function ( grunt ) {
         // Banner
         banner:
         '/*!\n'+
-        ' * Sense v<%= pkg.version %>\n'+
+        ' * Sunset v<%= pkg.version %>\n'+
         ' * <%= pkg.homepage %>\n'+
         ' *\n'+
         ' * Copyright (c) '+new Date().getFullYear()+' Rukhsar Manzoor\n'+
