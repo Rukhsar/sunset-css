@@ -1,9 +1,9 @@
 {
-  "name": "SunsetCSS",
+  "name": "Sunset Grid",
   "version": "1.0.0",
   "description": "A minimalist CSS grid system framework.",
   "homepage": "http://rukhsar.me.uk/sunset",
-  "repository": "Rukhsar/sunset-css",
+  "repository": "Rukhsar/sunset-grid",
   "license": "MIT",
   "author": "Rukhsar Manzoor <rukhsar.man@gmail.com>",
   "main": "dist/sunset.css",
